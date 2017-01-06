@@ -1,0 +1,32 @@
+body {
+  background-color: #cce6d5;
+  position: relative;
+  text-align: center;
+}
+
+tr:hover {
+  /*font-weight: bold;*/
+  /*text-decoration: underline;*/
+  color: black;
+}
+
+div {
+  color: #545454;
+  border-radius: 10px; 
+  background-color: #e7f4eb;
+  display: inline-block;
+  text-align: left;
+}
+table:hover {
+  cursor: pointer; 
+}
+
+audio {
+  width: 100%;
+  margin: -2% 0 0 0;
+}
+
+th {
+  color: #454545;
+  margin: 15px 0 15px 0;
+}
